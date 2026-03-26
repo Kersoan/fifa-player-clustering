@@ -44,26 +44,6 @@ FIFA_Project/
 
 ---
 
-## ▶️ How to Run the Project
-
-### 🔹 1. Clone the Repository
-
-```bash
-git clone https://github.com/Kersoan/fifa-player-clustering.git
-cd fifa-player-clustering/FIFA_Project
-```
-
-### 🔹 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 🔹 3. Run the App
-
-```bash
-python -m streamlit run app.py
-```
 
 ---
 
