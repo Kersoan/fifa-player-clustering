@@ -86,5 +86,9 @@ FIFA_Project/
 ## 👨‍💻 Author
 
 **Kersoan**
+🌐 Live Demo
+
+👉 Try the app here:
+🔗 https://fifa-player-clustering.streamlit.app/
 
 ---
