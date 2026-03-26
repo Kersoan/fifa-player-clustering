@@ -108,7 +108,3 @@ python -m streamlit run app.py
 **Kersoan**
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
