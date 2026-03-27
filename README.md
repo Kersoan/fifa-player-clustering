@@ -8,7 +8,7 @@ This project analyzes FIFA player data and groups players into different cluster
 
 ## 🚀 Features
 
-* 📊 Exploratory Data Analysis (EDA)
+* 📊 Exploratory Data Analysis (EDA) 
 * 🤖 Player Clustering using K-Means Algorithm
 * 📈 PCA Visualization of clusters
 * 🔍 Player search functionality
