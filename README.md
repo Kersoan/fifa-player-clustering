@@ -13,7 +13,7 @@ This project analyzes FIFA player data and groups players into different cluster
 * 📈 PCA Visualization of clusters
 * 🔍 Player search functionality
 * 🎯 Cluster-based player filtering 
-* 🌐 Interactive Web App using Streamlit
+* 🌐 Interactive Web App using Streamlit 
 
 ---
 
