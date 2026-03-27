@@ -26,7 +26,7 @@ This project analyzes FIFA player data and groups players into different cluster
   * Feature selection
   * Standardization using StandardScaler
 * Visualization:
-
+ 
   * PCA (Principal Component Analysis)
 
 ---
