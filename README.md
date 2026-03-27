@@ -12,7 +12,7 @@ This project analyzes FIFA player data and groups players into different cluster
 * 🤖 Player Clustering using K-Means Algorithm
 * 📈 PCA Visualization of clusters
 * 🔍 Player search functionality
-* 🎯 Cluster-based player filtering
+* 🎯 Cluster-based player filtering 
 * 🌐 Interactive Web App using Streamlit
 
 ---
