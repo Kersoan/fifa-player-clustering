@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes FIFA player data and groups players into different clusters based on their skills using Machine Learning techniques. The goal is to identify player types automatically and provide meaningful insights for scouting and team building.
+This project analyzes FIFA player data and groups players into different clusters based on their skills using Machine Learning techniques. The goal is to identify player types automatically and provide meaningful insights for scouting and team building. 
 
 ---
 
